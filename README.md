@@ -1,6 +1,7 @@
 # PIP_TTToken 节点
 ## 概述
 `PIP_TTToken` 是一个自然语言处理节点，使用 spaCy 库对输入文本进行分词和分析。此节点能够计算词元数量、提取自然语言描述，并生成 CLIP 关键词。
+![微信截图_20241119194742](https://github.com/user-attachments/assets/77da3ea6-600a-4c63-ba25-a2b4256a3eb8)
 
 ## 功能
 - **词元数量**：计算输入文本中的词元数量，忽略标点符号。
