@@ -25,6 +25,10 @@
 - **spaCy**：用于自然语言处理。
 - **en_core_web_sm**：spaCy 的英语小型模型。
 
+如果和pulid冲突
+卸载重装指定版本的库就可以解决
+.\python.exe -m pip install numpy==1.26.4
+
 ## 安装
 确保在 ComfyUI 的 Python 环境中安装了 spaCy 和 en_core_web_sm 模型。
 
