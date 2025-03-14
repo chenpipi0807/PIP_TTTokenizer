@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_pip_tttokenizer"
+description = "A ComfyUI custom node that provides advanced text tokenization functionality for improved text processing in generation workflows."
+version = "1.0.0"
+license = {text = "MIT"}
+dependencies = ["transformers", "numpy"]
+
+[project.urls]
+Repository = "https://github.com/chenpipi0807/PIP_TTTokenizer"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "PIP TTTokenizer"
+Icon = ""
